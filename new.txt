@@ -1,0 +1,5 @@
+First name: Iryna 
+Last name: Kachan
+age: 32 
+pets : 0
+prefered monthly salary: 700$
